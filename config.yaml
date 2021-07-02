@@ -1,14 +1,14 @@
-baseurl: https://unpopularone.netlify.app
+baseurl: https://unpopular.one
 languageCode: en-us
 theme: hugo-theme-stack
 paginate: 5
 title: An Unpopular One
 
 # Change it to your Disqus shortname before using
-disqusShortname: hugo-theme-stack
+disqusShortname:
 
 # GA Tracking ID
-googleAnalytics:
+googleAnalytics: UA-201181736-2
 
 # Theme i18n support
 # Available values: en, fr, id, ja, ko, pt-br, zh-cn, es, de, nl
@@ -20,7 +20,7 @@ permalinks:
 
 params:
     mainSections:
-        - post
+        - posts
     featuredImageField: image
     rssFullContent: true
     favicon:
