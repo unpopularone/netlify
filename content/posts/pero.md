@@ -28,13 +28,19 @@ Pêro da Covilhã deserves more honour and appreciation for the difficult task h
 **Legend of Prester John:** Prester John is a legendary character. There was a myth that he was a Prester (Priestly Emperor) of a land near India. He was the owner of an incomparable wealth. It was said that the Arabian and Asian traders collected many precious jewels for trade from his kingdom. So, the Europeans had a special attraction for the kingdom of Prester John. But till date no existence of this region has been found and the confliction regarding this fact is continuing among the historians.
 
 ![Travel Route of Pêro da Covilhã](https://upload.wikimedia.org/wikipedia/commons/2/21/Caminho_maritimo_para_a_India.png)
+
 Travel Route of Pêro da Covilhã
 
 **Bibliography:**
+
 Beckingham: The travels of Pero do Covilham and their significance
+
 Diffie & Winius: Foundation of the Portuguese Empire
+
 Mc Murdo: History of Portugal
+
 Encyclopaedia Britannica (11th Edition), Cambridge University Press.   
+
 Wikimedia: For Photos
 
     
