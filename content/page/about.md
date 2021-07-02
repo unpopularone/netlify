@@ -12,7 +12,7 @@ menu:
     main: 
         weight: -90
         pre: user
-image: "https://raw.githubusercontent.com/unpopularone/netlify/main/cover.jpg"
+image: "https://raw.githubusercontent.com/unpopularone/netlify/main/webassets/cover.png"
 ---
 Dear one,
 
