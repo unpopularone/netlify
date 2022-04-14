@@ -5,7 +5,7 @@ paginate: 5
 title: An Unpopular One
 
 # Change it to your Disqus shortname before using
-disqusShortname:
+disqusShortname: unpopularone
 
 # GA Tracking ID
 googleAnalytics: UA-201181736-2
