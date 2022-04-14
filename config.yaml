@@ -48,8 +48,8 @@ params:
             default: Licensed Under WTFPL 2.0
 
     comments:
-        enabled: false
-        provider: 
+        enabled: enabled
+        provider: disqus
 
         utterances:
             repo:
